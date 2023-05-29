@@ -1,0 +1,10 @@
+Unity:
+Open Game/Thesis3D with Unity 2021.3.14f1
+
+Pifuhd:
+clone the pifuhd directory into this one such that pifuhd/ lies in the root
+https://github.com/facebookresearch/pifuhd
+
+Packages:
+Python 3.7.9
+pip install scikit-image==0.18.3
